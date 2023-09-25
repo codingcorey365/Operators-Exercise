@@ -1,0 +1,14 @@
+C:\_Git\repos\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.exe
+C:\_Git\repos\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.deps.json
+C:\_Git\repos\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.runtimeconfig.json
+C:\_Git\repos\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.dll
+C:\_Git\repos\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.pdb
+C:\_Git\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Git\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.AssemblyInfoInputs.cache
+C:\_Git\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.AssemblyInfo.cs
+C:\_Git\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\_Git\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.dll
+C:\_Git\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\refint\OperatorExercise.dll
+C:\_Git\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.pdb
+C:\_Git\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.genruntimeconfig.cache
+C:\_Git\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\ref\OperatorExercise.dll
